@@ -1,5 +1,5 @@
 # Speaker Identifier
-Find out who the speaker is from the youtube videos. 
+Find out who the speaker is from the youtube videos. For a detailed explanation of the code, visit the following post. https://mk-minchul.github.io/SpeakerIdentification/
 
 ### Prerequisites
 

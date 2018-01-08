@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/mk/GitHub/SpeakerIdentifier/models/model1.tflearn"
+all_model_checkpoint_paths: "/Users/mk/GitHub/SpeakerIdentifier/models/model1.tflearn"
